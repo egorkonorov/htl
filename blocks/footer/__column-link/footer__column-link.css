@@ -1,0 +1,13 @@
+.footer__column-link{
+    text-decoration: none;
+    color:white;
+    line-height: 30px;
+    font-size: 18px;
+  }
+  .footer__column-link:hover{
+    animation: opacity .3s linear forwards;
+  }
+  .footer__column-link:nth-of-type(3n){
+    margin-bottom:16px;
+  }
+  
